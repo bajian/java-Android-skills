@@ -4,14 +4,13 @@ Android程序中开发经验-技巧总结--及一些干货
 ***
 ####
 ```
-
+[输入链接说明](http://)
 ```
 
 ***
 ####Android InputMethodManager
 ```
-Android InputMethodManager输入法简介
-http://www.cnblogs.com/weixing/p/3300908.html
+[Android InputMethodManager输入法简介](http://www.cnblogs.com/weixing/p/3300908.html)
 
 ```
 ***
