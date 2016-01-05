@@ -1,11 +1,76 @@
 # java-Android-skills
-Android程序中开发经验-技巧总结
+Android程序中开发经验-技巧总结--及一些干货
 
 ***
 ####
 ```
 
 ```
+
+***
+####Android InputMethodManager
+```
+Android InputMethodManager输入法简介
+http://www.cnblogs.com/weixing/p/3300908.html
+
+```
+***
+####Android中Handler引起的内存泄露
+```
+http://droidyue.com/blog/2014/12/28/in-android-handler-classes-should-be-static-or-leaks-might-occur/
+
+细话Java："失效"的private修饰符
+http://droidyue.com/blog/2014/10/02/the-private-modifier-in-java/
+
+java中，什么是对象的可达与不可达？
+http://zhidao.baidu.com/link?url=ljcxE68MhHWBU3IeZGosmFFH5PBp17A7uzRSBKFD_nMoS7Z5yyKbrIbqvx5WdLB0Ra6d3LsboUJtK1V4z5qsQq
+
+```
+
+***
+####非UI线程可以去刷新UI吗（rogressbar的setProgress的特例）
+```
+http://blog.csdn.net/androidzhaoxiaogang/article/details/8136222
+
+```
+
+***
+####[Android Memory] android 警告：Exported activity does not require permission
+```
+http://www.cnblogs.com/0616--ataozhijia/p/3738569.html
+
+```
+
+
+***
+####java 注解
+```
+注解的继承关系
+http://elf8848.iteye.com/blog/1621392
+```
+
+***
+####Android studio NDK开发
+```
+
+Android studio NDK开发
+http://www.th7.cn/Program/Android/201509/550864.shtml
+一系列文章
+http://blog.csdn.net/yanbober/article/details/45310365
+```
+
+***
+####android 持久化保存cookie
+```
+DEMO:
+https://github.com/bajian/LeagueSharpLoginDemo
+注解的继承关系
+http://blog.csdn.net/jwzhangjie/article/details/29861111
+
+Android OkHttp的Cookie自动化管理
+http://www.2cto.com/kf/201507/419264.html
+```
+
 ***
 ####做APP需要哪些工具？年度最新移动应用工具盘点（内附福利）
 ```
@@ -43,6 +108,8 @@ http://blog.csdn.net/nieweilin/article/details/5908165
 
 java动态代理（JDK和cglib）
 http://www.cnblogs.com/jqyp/archive/2010/08/20/1805041.html
+
+field.get(object) //取值
 ```
 
 ***
