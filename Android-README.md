@@ -4,9 +4,19 @@ Android程序中开发经验-技巧总结--及一些干货
 ***
 ####
 [输入链接说明](http://)
+
 ```
 
 ```
+####Android Studio插件推荐
+[插件搜索](https://plugins.jetbrains.com/plugin/4946?pr=)
+* GsonFormate
+* SimpleUMLCE
+* Butterknife
+
+
+[Android 中的 AOP 编程](http://www.devtf.cn/?p=981)
+
 
 ***
 ####Android InputMethodManager
@@ -44,6 +54,10 @@ http://www.cnblogs.com/0616--ataozhijia/p/3738569.html
 ***
 ####java 注解
 ```
+java中注解的使用与实例(一)
+http://www.cnblogs.com/pepcod/archive/2013/02/16/2913474.html
+
+
 注解的继承关系
 http://elf8848.iteye.com/blog/1621392
 ```
